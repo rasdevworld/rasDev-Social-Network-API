@@ -1,6 +1,7 @@
 # rasDev-Social-Network-API
 
 # Description
+
 Created a social network API application where users can share their thoughts, can respond to the thoughts and also create friends to the user's friend's list. This application is using Express.js for routing, a MongoDB database, and Mongoose ODM.
 
 
@@ -28,6 +29,7 @@ MIT License - The License file is provided here : (./LICENSE)
 
 ## Screenshot
 
+![alt text](Assets/social-network-api.png)
 
 ## Github Repository and Demo Link
 
